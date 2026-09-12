@@ -1,0 +1,19 @@
+{
+  "_comment": "Промпты геральдики Кенорландии. Источник — ~/kenorlandia/Кенорландия/*.md. Формат: имя -> {kind, prompt}. Английский, потому что SD его понимает точнее.",
+  "flags": {
+    "kenorlandia": "flat vector national flag, three horizontal stripes blue white green, a row of six black five-pointed stars across the middle, clean crisp edges, official vexillology, centered composition, plain flat colors, no text artifacts",
+    "bobija": "flat vector national flag, solid black field, red canton in the upper left corner, bold golden hammer and sickle emblem inside the canton, communist vexillology, flat colors, sharp edges",
+    "areda": "flat vector national flag, three vertical stripes azure white azure, a blue Star of David centered on the white stripe, clean geometric design, flat colors, exact symmetry",
+    "alliance": "flat vector flag, deep navy blue field, narrow black vertical stripe along the left edge, large solid gold circle inside an open gold ring with pointed ends tilted up-left, minimal technocratic emblem, flat colors",
+    "yotagos": "flat vector flag, orange field, a white sech-like S curve across the middle, a white solid circle above the curve, minimal geometric emblem, flat colors, bold simple shapes",
+    "pemilandia": "flat vector flag, pink field, dark navy canton, a twelve-rayed sun with a dark maroon solid circle at its center, playful pastel vexillology, flat colors",
+    "vavambika": "flat vector flag, solid black field, central gold disk with serrated sun-like edges, inside the disk a black silhouette of a Zulu shield with two notches at the top crossed with two assegais spears, thin white ring around the disk, bold symbolic design"
+  },
+  "coats": {
+    "kenorlandia": "heraldic coat of arms emblem on transparent-looking plain background, a tall radio transmission tower on a round platform, banner across the platform lettered 'Kenoris Progrevti', stylized wheat sheaves radiating around the tower, clean vector heraldry, flat colors",
+    "bobija": "heraldic coat of arms, black shield, bold golden hammer and sickle on the shield, a red five-pointed star below the hammer and sickle, ribbon beneath with cyrillic lettering, flat vector heraldry, strong contrast",
+    "areda": "heraldic coat of arms, azure shield with a pointed base, a silver book in the center, a blue Star of David on the book cover, ribbon below with lettering, clean flat vector heraldry",
+    "alliance": "heraldic emblem, large solid gold circle inside an open gold ring with pointed ends, minimal technocratic insignia on plain background, flat vector, precise geometry",
+    "yotagos": "heraldic emblem, a white solid circle with a glowing rim, greek lettering across the circle, smaller lettering curved along the circumference, flat vector insignia, plain background"
+  }
+}
