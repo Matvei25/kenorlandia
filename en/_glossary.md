@@ -7,9 +7,9 @@ headings, tables, emoji, code spans, blockquotes, phone codes, domains and Latin
 ## Countries / polities
 - Кенорландия → Kenorlandia ; кенорский/кенорландский → Kenorian
 - ЛКР (Либеральная Кенорская Республика) → LKR (Liberal Kenorian Republic)
-- ССКНР (Советская Социалистическая Кенорская Народная Республика) → SSKNR (Soviet Socialist Kenorian People's Republic)
+- ССКНР (Советская Социалистическая Кенорская Народная Республика) → SSPKR (Soviet Socialist People's Kenorian Republic)
 - ПКК (Провизиальные Кенорские Каунти) → PKC (Provisional Kenorian Counties)
-- ККР → CKR (Communist Kenorian Republic) ; ККГ → CKS (Catholic Kenorian State)
+- ККР → CKR (Communist Kenorian Republic)
 - Ареда → Areda ; аредский → Aredan
 - Бобия → Bobia (TLD .bk) ; бобийский → Bobian
 - Йотагос → Yotagos ; йотский/йота- → Yotian / Yota-
