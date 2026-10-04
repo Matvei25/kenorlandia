@@ -7,13 +7,13 @@ It's a place where fantasy meets electronics (Arduino, ESP, Raspberry Pi) and po
 ## 📁 Archive structure
 
 - **`/Kenorlandia`** — The main core of the lore:
-  - `Yotagos.md` — Description of the most productive and wealthy ~~city~~ outpost (technocracy, rockets, sausage gasoline).
-  - `characters.md`, `creatures.md`, `countries.md` — Lists of the world's inhabitants and geography.
-  - `languages.md`, `trends.md` — The cultural layer and linguistics.
-  - `Альянс.md` — The political system and unions.
+  - `YotaState.md` — Description of the most productive and wealthy ~~city~~ outpost (technocracy, rockets, sausage gasoline).
+  - `characters.md`, `life forms.md`, `countries.md` — Lists of the world's inhabitants and geography.
+  - `langs.md`, `trends.md` — The cultural layer and linguistics.
+  - `The Combine.md` — The political system and unions.
 - **`/prompts`** — Instructions and scenarios for AI generations about the world (from nuclear wars to Pemilandia).
 - **`/numberblocks`** — A separate section on Numberblocks.
-- **`/rekukle bin`** — The digital graveyard (old versions of files and deleted ideas).
+- **`/recycle bin`** — The digital graveyard (old versions of files and deleted ideas).
 
 ## 🚀 Main landmarks
 
