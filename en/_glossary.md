@@ -18,7 +18,7 @@ headings, tables, emoji, code spans, blockquotes, phone codes, domains and Latin
 - Пэмиляндия → Pemilandia ; пэмизм → Pemism
 - Юсиксландия → Yusixlandia
 - Балбесия → Balbesia
-- Альянс → the Alliance
+- Альянс → the Combine
 - ВСП (Великие Сосисочные Племена) → GST (Great Sausage Tribes)
 - УВСП (Урбанские Великие Сосисочные Племена) → UGST (Urban Great Sausage Tribes)
 - Ешубин → Yeshubin ; Турадура → Turaduna
@@ -36,7 +36,7 @@ headings, tables, emoji, code spans, blockquotes, phone codes, domains and Latin
 - желеки/желейки → jellies / jelly folk
 - линуксоиды → linuxoids ; хедкрабы → headcrabs
 - Юсикс → Yusix ; Балбес → Balbes ; Пэм → Pam ; памперсы → diapers
-- Курлыка → Kurlyka ; Матвей → Matvey ; Тукс → Tuks ; Туксолёт → Tuksplane
+- Курлыка → Kurlyka ; Матвей → Matvey ; Тукс → Tux ; Туксолёт → Tuxplane
 
 ## Tech / world terms
 - ЙБР (Йотские Баллистические Ракеты) → YBR (Yotian Ballistic Rockets)
