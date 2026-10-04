@@ -1,0 +1,32 @@
+A Python site for the Gitiyverse ecosystem, which contains sub-services:
+
+Gitiy LLC - the core.
+MorMat&6d - a hub for the core where you can find information and content.
+Boid - a catalog of plugins and services.
+Tundunse - a catalog of files to download.
+Spectrum - a library of music and books.
+BudSpace - a social network and collab.
+Aerial - BudSpace but it's a game.
+kurlyka! - calls.
+bluCoins - a cryptocurrency blockchain.
+YusixGPT - AI and neural networks.
+Gitiy Linux - a GNU/Linux distribution.
+GDE (Gitiy's Desktop Environment), GWM (Gitiy's Window Manager) and HDM (High Display Manager) - graphics software for GNU/Linux.
+...and so on.
+
+GDE and HDM have an interface that's half XMB, half GNOME + Yaru.
+
+Gitiy Linux is based on Debian and has several blends:
+SciBlend - a pack of programs for research.
+AstronoBlend - for astronomy.
+CodeBlend - for programming.
+AlgBlend - for math.
+PlayBlend - for games.
+ArtBlend - for the studio, artists.
+LiteBlend - minimalism.
+BlendPro - a proprietary pack of programs.
+Default - no blend.
+
+It's also worth adding an in-game currency, "jobs" to earn that currency. A simple JSON-type database but with encryption: login, password, a special code so the account can't just be hacked.
+
+Site theme: orange, blue and green. Rounded minimalism with callouts and a theme that doesn't strain your eyes and brain.

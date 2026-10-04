@@ -1,0 +1,65 @@
+The Alliance (eng. The Combine) - a multi-world empire that has conquered several hundred systems. It has a Citadel, subdivisions: CP, soldiers, elite, slaves and synths.
+
+The Alliance also has parties: "The Combine Empire", "The Combine Overwatch", "The Combine Diplomacy". When it needs a separate zone, it occupies it, starts working there and sets up guards to fight back. It uses Arab sausages as a bioweapon.
+
+Guards: CP (Civil Protection), Arab sausages.
+Soldiers (the most common combat unit): soldiers, snipers, infantrymen, heavy infantrymen, biogenerals (they control the sausages).
+Elite: soldiers with shotguns, grenadiers, elite soldiers (with AV2), generals.
+Slaves: Alliance civilians, stalkers - reprocessed people with a laser device at their eyes.
+Synths: striders - tripods about 10 m tall, have an AV1 machine gun and an annihilation cannon, hunters - tripods 2.5 m tall, have two eyes stacked vertically and a tongue, which they use to skewer their victim, dropship - a flying creature designed to transport containers and useful cargo, gunship - a flying helicopter-insect that fires an AV1 machine gun, 7 m long, crab synth - a crustacean synth 2 m tall and 5 m wide, fires firearms, slow and immobile, has two big legs, mortar (or mortar-synth) - a strange synth that hovers 50 cm above the ground and fires grenades, advisor - a larva-like synth that has only a mouth with a tongue, but synthetically has mechanical arms, a camera, a microphone and other technologies for manipulating space-time, the psyche and other things, they are the leaders.
+Drones/robots: scanner drone, mine drone, ball mine, manhack (a drone with a saw), android.
+
+Alliance weapon types:
+
+melee:
+stun baton
+baton
+knuckles
+
+firearms:
+9 mm pistol
+Glock
+MP7 submachine gun
+MP5 submachine gun
+SPAS-12 pump shotgun
+
+pulse:
+AV1 assault rifle
+AV2 assault rifle
+heavy assault rifle (AV3)
+energy orb
+stalker laser device
+
+explosive:
+fragmentation grenade
+Alliance mine
+ballistic missile
+
+biological and chemical weaponry:
+Arab sausages
+pheropod
+neurotoxin
+nitric acid
+
+Eyepieces of infantry units:
+CP - two black,
+soldier - two blue,
+sniper - two green,
+infantrymen - two yellow,
+heavy infantrymen - two purple,
+soldiers with shotguns - two red,
+grenadiers - two orange,
+elite soldiers - one big red eye, white uniform,
+generals - two white,
+Alliance civilians - ordinary human eyes,
+stalkers - two under the device;
+
+They fight the Lambda Resistance - quite strong opponents, but ordinary people, they steal weapons and uniforms from the Alliance + study the Alliance's science and technology.
+
+The Alliance never did figure out teleportation.
+
+The Citadel is about 5 km tall. The Alliance has a prison "Nova Prospekt" where people are turned into stalkers.
+
+Soldiers use terminology, codes and abbreviations for tactics that are hard for enemy soldiers to decipher.
+
+Alliance phone numbers start with +0. The Alliance has the domain zone .cmb.
