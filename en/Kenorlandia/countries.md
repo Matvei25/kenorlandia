@@ -115,7 +115,7 @@ Yott County: Yovukh (capital), Redo Kiy
 ### Yeshubin
 Yeshubin — a city-state, located in Yeshubin-City county.
 
-### Turaduna
+### Turaduna (Here are only the biggest settlements, there are more)
 Turalig (capital, south of Russia), Yevatog (South of Turkey), Susa (Bulgaria) and a few more settlements
 
 ### GST (This is not UGST! UGST districts are written as "UGST of the City [CITY NAME]". Here are only the biggest settlements, there are more)
@@ -126,6 +126,9 @@ Mazyam (capital, south of Kenorlandia), Tyutya (South of Kenorlandia), Ariyekh (
 
 ### Monkekh settlements (Here are only the biggest settlements, there are more)
 Mok-Tukan (capital, north of Brazil), Ki-Ru (east of Peru), Lo-Congo (west of DR Congo), Tam-Panda (south of Mexico), Ngo-Ngo (north of Kalimantan, Indonesia), Pa-Tai (south of Thailand), Ra-Mong (north of Myanmar), Su-Lo (Philippines), Shi-Pi (Papua – New Guinea), Ja-Mbu (south of Cameroon), Ki-Tam (north of Gabon), Bo-To (east of Costa Rica), Mo-Ke (central Vietnam), U-Lu (west of Malaysia), An-Gor (south of Cambodia) and many more settlements
+
+## Linuxoid settlements (Here are only the biggest settlements, there are more)
+Unixgrad (capital, Antarctica), Penguin Point (Antarctica), Ice Harbor (Antarctica), Penguinburg (southern Chile), The Nest (Greenland), Arctic City (northern Canada), Tux Islands (Falkland Islands), Compilatorsk (Antarctica), Bytograd (Antarctica), Icetown (Antarctica), Shelf (Antarctica), Frost Port (Iceland), Polaris (northern Finland), Penguin Hall (southern New Zealand), Icebreaker (southern Argentina), and many other settlements
 
 ## New independent states
 
@@ -243,7 +246,7 @@ Mok-Tukan (capital, north of Brazil), Ki-Ru (east of Peru), Lo-Congo (west of DR
   
 ## Great Powers
 
-- the Combine
+- The Combine
 - USA
 - France
 - United Kingdom
@@ -270,7 +273,12 @@ Mok-Tukan (capital, north of Brazil), Ki-Ru (east of Peru), Lo-Congo (west of DR
 - Indonesia
 - South Africa
 - DR Congo
+- GST
 - Jelly settlements
+- Linuxoid settlements
+- Monkekhs settlements
+
+> "Great Powers" is the term used for states that managed to defeat The Combine or withstand a war against it (The Combine is implied here).
 
 ## International cooperation
 
@@ -455,7 +463,7 @@ Website - `doomjuice.wv`
 > All countries described here (except the GST, the UGST, the Combine and real countries) are located in the Caucasus/Transcaucasia.
 > Don't insert phone numbers where they aren't being talked about, or where the context isn't about that country.
 > County = County, it is a county of the LKR before the war.
-> Kenorlandia was in the USSR (1922-1991, as were Areda and Bobia), then was the SSPKR (Soviet Socialist People's Kenorian Republic, 1992-2001), the PKC (Provisional Kenorian Counties, 2001), and the LKR (2001-2026).
+> Kenorlandia was in the USSR (1922-1991, as were Areda and Bobia), then was the SSPKR (Soviet Socialist People's Kenorian Republic, 1992-2001), the PTKC (Provisional Trucial Kenorian Counties, 2001), and the LKR (2001-2026).
 > In Kenorlandia they measure in the SIE system. A period is used as the decimal separator, and a comma for lists.
 > Kenorlandia has also been a member of NATO since 2004.
 > Vavambik appeared in the USSR after the migration of peoples from Africa.
