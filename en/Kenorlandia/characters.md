@@ -8,7 +8,7 @@
 - **Gender**: Boy
 - **Character**: Smart, hot-tempered, ambitious, passionate, memey, swears
 - **Interests**: Politics, Garry's Mod, Le Modern MMORPG, Aerial, Age of History III, TPT, Team Fortress 2, Minecraft, Roblox, Gorilla Tag, science, programming, Tor and I2P
-- **Skills**: Python, Lua, Lisp, GDScript, C++, C, C#, Java, Bash, Git, math, music on BeepBox/UltraBox/Slamroo's Box, physics, `qalc`
+- **Skills**: Python, Lua, Lisp, GDScript, C++, C, C#, Java, Bash, Git, math, music on BeepBox forks, physics, `qalc`
 - **Gear**: VR, computer (Windows, Debian and Kali Linux), phone with LineageOS
 - **Languages**: Russian, English, Kenorian, a bit of German
 - **Traits**: Serious, curious, technically minded, knows many funny jokes, has a car
@@ -39,7 +39,7 @@
 - **Character**: Calm, kind, curious, passionate, memey, swears
 - **Gear**: VR, computer
 - **Family**: Brother Mishel
-- **Languages**: Arabic, Russian, a tiny bit of Hebrew
+- **Languages**: Arabic, Kenorian, Russian, a tiny bit of Hebrew
 - **Interests**: Recording videos for YouTube and TikTok, Gorilla Tag, Fortnite, music, drawing
 - **Skills**: Python (basic), guitar, BeepBox/UltraBox
 - **Company**: YotaAgency (`yotastate.kl/agency`)
@@ -97,7 +97,7 @@
 - **Age**: 13 years old
 - **Gender**: Boy
 - **Character**: Negative, envious, odd, swears
-- **Interests**: Bobik and Ophibop (FNF), .exe characters, Numberblocks Band, USSR, Countryballs, change very often
+- **Interests**: Bob and Opheebop (FNF), .exe characters, Numberblocks Band, USSR, Countryballs, change very often
 - **Traits**: Clashes with Matvey, loves Darth Vader, has a car
 - **Company**: Bobistic Countryballs (`countryballs.bk`)
 - **Catchphrases**: "Aha", "Your division!", "I envy you!"
@@ -131,7 +131,7 @@
 - **Age**: 11 years old
 - **Gender**: Boy
 - **Character**: Memey, kind, cheerful, cheeky, passionate
-- **Languages**: Russian, a bit of English
+- **Languages**: Russian, Kenorian, a bit of English
 - **Interests**: Counter Strike 2, programming, swimming
 - **Phone number**: +725 (555) 115 66-00
 
@@ -155,10 +155,10 @@
 - **Surname**: Domasin
 - **Age**: 11 years old
 - **Gender**: Boy
-- **Character**: Memey, passionate, strong, cheerful
-- **Interests**: Roblox, science
+- **Character**: Memey, passionate, strong, cheerful, risky
+- **Interests**: Roblox, Age of History 3, science, dinosaurs
 - **Gear**: Computer (Windows)
-- **Traits**: Has type 1 diabetes, goes diving
+- **Traits**: Has type 1 diabetes, goes diving, sometimes plays a cruel trick
 - **Phone number**: +725 (510) 101 25-96
 
 ### Kasha
@@ -279,7 +279,7 @@ Characters from the mountain town of South Park (Oregon, USA)
 - **Skills**: Oratory, blackmail, negotiations with Combine defectors, selling information to both sides, quick adaptation to chaos
 - **Traits**: Wears a blue-and-yellow beanie with a pom-pom and a red jacket, always tries to create his own "Citizen's Defense Committee," which in reality is extortion of farmers and a Yotagos party. Dreams of becoming the leader of all of South Park and striking a deal with the Combine, but constantly fails. Despises the "nerds" from Technograd (Kenorlandia), though he envies their technology
 - **Company**: Citizen's Defense Committee (CDC, `cartmancdc.co`)
-- **Languages**: English, a bit of Spanish swearing
+- **Languages**: English, Kenorian, a bit of Spanish swearing
 - **Favorite color**: Red (like his jacket)
 - **Family**: Mother (Lina Cartman) — works at the "At Mary's" bar, father unknown
 
