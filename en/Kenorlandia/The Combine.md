@@ -54,17 +54,17 @@ Anthem — "Our Overwatch expanse"
 
 ### Elite
 - Shotgun soldiers, grenadiers
-- Elite soldiers (with AV2), generals
+- Elite soldiers (with AR2), generals
 
 ### Slaves
 - Stalkers — reprocessed people with a laser device at their eyes
 - **Durachochki** — are also slaves
 
 ### Synths
-- **Striders** — tripods about 10 m tall, they have an AV3 machine gun and an annihilation cannon
+- **Striders** — tripods about 10 m tall, they have an AR3 machine gun and an annihilation cannon
 - **Hunters** — tripods 2.5 m tall, they have two blue glowing eyes stacked vertically and a tongue for attacking
 - **Dropship** — a flying creature for hauling cargo, 7 m long, it can drag containers for infantry, striders (curled into a ball), APCs and containers for drones/mines; it has 6 legs for grabbing and 2 legs for engines
-- **Gunship** — an insect-like creature with an AV1 machine gun (7 m long)
+- **Gunship** — an insect-like creature with an AR1 machine gun (7 m long)
 - **Crab synth** — a crustacean synth 2 m tall, it fires firearms
 - **Mortar** — a synth hovering 0.2 m above the ground, it fires grenades
 - **Advisor** — a larva-like synth with technology for manipulating space-time and the psyche (chemically), 3 m long and 1 m wide/tall; they are the leaders, average lifespan of ~140 years
@@ -78,8 +78,8 @@ Anthem — "Our Overwatch expanse"
 - 9 mm pistol, Glock, MP7, MP5, pump-action SPAS-12 shotgun
 
 ### Pulse
-- Assault rifle AV1, AV2, heavy assault rifle (AV3)
-- Electric-fire cannon EK1
+- Assault rifle AR1, AR2, heavy assault rifle (AR3)
+- Electric-fire cannon EC1
 - Energy orb, the stalker's laser device
 
 ### Explosive
@@ -121,16 +121,16 @@ A mine that anchors to the ground with three legs; when it detects an enemy near
 A portable drone with a saw held horizontally in its core; it has an LED that glows depending on its state; CP members carry 1-2 of them on their back in a closed state
 
 ### Helicopter
-A helicopter that can fire rockets, ball road bombs and from an AV3 cannon. It carries one pilot and two passengers.
+A helicopter that can fire rockets, ball road bombs and from an AR3 cannon. It carries one pilot and two passengers.
 
 ### APC
-An armored vehicle with an electric motor, 4.2 m long and 2 m tall; they have a stationary AV3 machine gun, a rocket launcher and bulletproof glass
+An armored vehicle with an electric motor, 4.2 m long and 2 m tall; they have a stationary AR3 machine gun, a rocket launcher and bulletproof glass
 
 ### Indicators
 They run on 12 V, they can glow green, yellow, red, blue and white.
 
 ### Batteries
-Combine batteries, about 8 cm in size; one is enough for 3 weeks of continuous operation. They are inserted into a device like a bottle cork.
+Combine batteries, about 8 cm in size; voltage 12 V, capacity 83.3 Ah (300 kC), stored energy 1 kWh (3.6 MJ). They are inserted into a device like a bottle cork.
 
 ### Barricades
 They create panels from a super-solid material that crystallizes in 45°/90° shapes, blurs objects behind it and is quite strong

@@ -159,7 +159,7 @@ National company of Kenorlandia: `gitiyverse.kl` (blocked in Bobia). Founded in 
 - bluCoins — cryptocurrency ($BLC, fluctuates from 2 to 16 ELJ)
 - YusixGPT — AI and neural networks, open-source, the latest versions have CoT/ToT, tools, MoE, text (generative and discriminative), embeddings and images
 - Cloud — repositories and a cloud for computations
-- Browgess — a Chromium-based browser with built-in Tor (for `.onion`) and I2P (for `.i2p`), the regular internet without such networks
+- Browgess — a Gecko-based browser with built-in Tor (for `.onion`) and I2P (for `.i2p`), the regular internet without such networks. There is a version based on Chromium.
 - Gitiy Linux — a GNU/Linux distribution
 - GDE (Gitiy Desktop Environment), GWM (Gitiy Windows Manager), XDM (XMB Display Manager) — graphics software
 - Arbsos — neural-interface devices with LineageOS and a camera for kolbasites
@@ -300,12 +300,32 @@ Accident at Black Mesa (USA):
 
 ## SIE (Système international étendu)
 
-This is the SI, but with additional axioms:
-- The measure of information, logarithmic and angular — base
-- Byte (B), neper (Np) and radian (rad) — base units
-- Steradian sr = 1 rad²
-- Binary prefixes -bi-
-- Natural prefixes -na-
+### Units
+- meter (m) — measure of distance
+- kilogram (kg) — measure of mass
+- second (s) — measure of time
+- ampere (A) — measure of electric current
+- kelvin (K) — measure of temperature
+- mole (mol) — measure of amount of substance
+- candela (cd) — measure of luminous intensity
+- byte (B) — measure of information
+- neper (Np) — logarithmic measure
+- radian (rad) — angular measure
+
+### Definitions and axioms
+- Caesium-133 transition frequency (Δν_Cs = 9 192 631 770 Hz) — defines the second
+- Speed of light in vacuum (c = 299 792 458 m/s) — defines the meter
+- Planck constant (h = 6.62607015·10⁻³⁴ J·s) — defines the kilogram
+- Elementary charge (e = 1.602176634·10⁻¹⁹ C) — defines the ampere
+- Boltzmann constant (k = 1.380649·10⁻²³ J/K) — defines the kelvin
+- Avogadro constant (N_A = 6.02214076·10²³ mol⁻¹) — defines the mole
+- Luminous efficacy (K_cd = 683 lm/W) — defines the candela
+- Information entropy constant (k_B ln 2 = 1.380649·10⁻²³ · ln 2 ≈ 9.5699·10⁻²⁴ J/K) — defines the bit; byte = 8 bits
+- Euler's number (e = 2.718281828...) — defines the neper: 1 Np = ln e = 1 (dimensionless)
+- Arc length to radius ratio equal to 1 (1 m/m) — defines the radian: 1 rad = 1 m/m = 1 (dimensionless)
+- Steradian (sr) = 1 rad² — measure of solid angle (derived)
+- Binary prefixes (-bi-) — define multiples with base 2
+- Natural prefixes (-na-) — define multiples with base e
 
 ## Theory of Semi-Intelligence
 The theory of semi-intelligence states that semi-intelligent intellect and a neural network can be predicted with high or full accuracy. It was discovered and confirmed at EBM in 2024, which made it possible to predict behavior and model the invasions of sausages and Durachochki. The behavior of semi-intelligent intellects is comparable to neural networks.

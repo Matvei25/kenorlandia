@@ -280,6 +280,27 @@ Unixgrad (capital, Antarctica), Penguin Point (Antarctica), Ice Harbor (Antarcti
 
 > "Great Powers" is the term used for states that managed to defeat The Combine or withstand a war against it (The Combine is implied here).
 
+## UN Languages
+
+- English
+- Lojban
+- Chinese
+- Russian
+- Spanish
+- Portuguese
+- French
+- Arabic
+- Hebrew
+- Kenorian
+- Hindi
+- German
+- Hausa
+- Persian
+- Kolbasite Creole
+
+> In UN documents, Kolbasite Creole serves as a standardized superstructure built upon GST dialects; in spoken communication, however, the kolbasites continue to mix languages, punctuation, and symbols.
+> Lojban is used as a neutral language for negotiations with The Combine.
+
 ## International cooperation
 
 - Kenorlandia joined Russia, the USA, China, the UAE and Israel in developing Telegram
