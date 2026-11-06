@@ -4,10 +4,12 @@
 
 **Liberal Kenorian Republic (LKR)** — a country with its capital in Kenorlig.
 
-- **Ideology**: Something between liberalism, capitalism, democracy, decentralization, technocracy — this is Kenorism
+- **Ideology**: Something between liberalism, capitalism, democracy, decentralization, technocracy, secularism — this is Kenorism
 - **Official languages**: English, Kenorian
+- **Religion**: Atheism
+- **Ranking by GDP**: 7th place, $3.61 trillion USD, pushing France down to 8th place
 - **Location**: the Caucasus
-- **Currency**: Kenorian elleidge (ELJ), 1 ELJ = $0.625 USD
+- **Currency**: Kenorian elleije (ELJ), 1 ELJ = $0.625 USD
 - **Country calling code**: +725 (ΧXX) XXX XX-XX
 - **Mobile operators**: Kenorile, GitiyLine, Arbsos Special Mobile (ASM)
 - **ISO**: `KL`
@@ -29,11 +31,11 @@ Anthem - "My kred fi tekhnolog"
 
 ### Parties of Kenorlandia
 
-- Leading Liberal Progressive Party (LLPP, Kenorism)
+- Leading Liberal Progressive Party (LLPP, current, Kenorism)
 - Party of Kenorian Communism (PKC, CKR)
 - Republican Party of Kenorlandia (RPK)
 - Al-Watan
-- Agrarian Kenorian Patria (AKP)
+- Agrarian Kenorian Patry (AKP)
 
 ### Service phone numbers of Kenorlandia
 
@@ -55,7 +57,7 @@ A civil war is ongoing in Kenorlandia (9 months, started in 2025).
 
 ### Allies
 - Kenorian Forces
-- Aredan Republic
+- Aredian Republic
 - USA
 - Israel
 - Palestine (FATAH)
@@ -66,13 +68,23 @@ A civil war is ongoing in Kenorlandia (9 months, started in 2025).
 - Iran
 
 ### Risen radicals
-- Vavambik, Yeshubin, Al-Watan, ASK
+- Vavambik
+- Yeshubin
+- Al-Watan
+- AZC
 
 ### Radicals
-- the Combine, Turaduna, Great Sausage Tribes (GST, don't confuse with UGST!)
+- the Combine
+- Turaduna
+- Great Sausage Tribes (GST, don't confuse with UGST!)
 
 ### Terrorists
-- IS, Al-Qaeda, GKIG (Kenorian Islamist State Grouping), HAMAS, Ansar Allah
+- IS
+- Al-Qaeda
+- GKIG (Kenorian Islamist State Grouping)
+- HAMAS
+- Hezbollah
+- Ansar Allah
 
 ## Features
 
@@ -88,7 +100,7 @@ A mix of Russian, English and Arabic, written in Latin script, very simple. Bann
 
 ### Kenorlandia
 - Kenorlig-City County: Kenorlig (capital)
-- Ubreg County: Sochi, Adler, Tuapse, Dzhubga
+- Ubreg County: Sochi, Adler, Tuapse, Dzhubga, Ravenholm
 - Esto County: Esto-Sadok, Bluo Stimovy, Aerou
 - Danyo County: Danel, Ukratos, New Shepsi, Al-Libralia
 - Yott County and Yeshubin-City (currently not under LKR control)
@@ -119,10 +131,10 @@ Yeshubin — a city-state, located in Yeshubin-City county.
 Turalig (capital, south of Russia), Yevatog (South of Turkey), Susa (Bulgaria) and a few more settlements
 
 ### GST (This is not UGST! UGST districts are written as "UGST of the City [CITY NAME]". Here are only the biggest settlements, there are more)
-Ragallakh (capital, north of Syria), Al-Abkhaz (South of Kenorlandia), Unvavam (North Kenorlandia, near Vavambik), Al-Ushb (Northwest Iran), Kamarkhall (South of Azerbaijan), Kfar-Aljir (North Algeria), Al-Horvaserb (Northeast Croatia), Yoarabi (South of Russia), Al-Taylib-Dari (South of Afghanistan), Sudruz (North of Druzia), Al-Uighur (Northeast China), Urudu-Rasha (South of Russia), Al-Ivrit (South of Israel), Iord-Al-Makharab (West Bank, Palestine) and a few more settlements
+Ragallakh (capital, north of Syria), Al-Abkhaz (South of Kenorlandia), Unvavam (North Kenorlandia, near Vavambik), Al-Ushb (Northwest Iran), Kamarkhall (South of Azerbaijan), Kfar-Aljir (North Algeria), Al-Horvaserb (Northeast Croatia), Yoarabi (South of Russia), Al-Taylib-Dari (South of Afghanistan), Sudruz (North of Druzia), Al-Uighur (Northeast China), Urudu-Rasha (South of Russia), Al-Ivrit (South of Israel), Iord-Al-Makharab (West Bank, Palestine), Shkvark-City (Ahvaz), Er-Sajak (Northeastern Saudi Arabia), Naqmaq (Southern Saudi Arabia), Al-Naq-Houthi-Maq (Western Yemen) and many more settlements
 
 ### Jelly settlements (Here are only the biggest settlements, there are more)
-Mazyam (capital, south of Kenorlandia), Tyutya (South of Kenorlandia), Ariyekh (South of Russia), Nutt (Northwest Mongolia), Simit (South of Greece), Yof (Armenia), Tsa (Abkhazia), Yuuy (Areda), Mor (Adjara, Georgia), Dyukhu (Areda), Misn (USA, New Mexico), Kuyf (USA, Florida), Nazir (North of Israel), Yoal (emirate of Abu Dhabi, UAE), Khaum (North of France), Eind (Northeast India), Sinyo (Bangladesh) and many more settlements
+Mazyam (capital, south of Kenorlandia), Tyutya (South of Kenorlandia), Ariyekh (South of Russia), Nutt (Northwest Mongolia), Simit (South of Greece), Yof (Armenia), Tsa (Abkhazia), Yuuy (Areda), Mor (Adjara, Georgia), Dyukhu (Areda), Misn (USA, New Mexico), Kuyf (USA, Florida), Nazir (North of Israel), Yoal (emirate of Abu Dhabi, UAE), Khaum (North of France), Eind (Northeast India), Sinyo (Bangladesh), Ingrad (Northeastern Germany), Zon (Northern Czechia), Pervoselo (Southwestern Russia, near Kazakhstan), Jych (Southern Lithuania), Xi’an-Huang (Northern China, Manchuria) and many more settlements
 
 ### Monkekh settlements (Here are only the biggest settlements, there are more)
 Mok-Tukan (capital, north of Brazil), Ki-Ru (east of Peru), Lo-Congo (west of DR Congo), Tam-Panda (south of Mexico), Ngo-Ngo (north of Kalimantan, Indonesia), Pa-Tai (south of Thailand), Ra-Mong (north of Myanmar), Su-Lo (Philippines), Shi-Pi (Papua – New Guinea), Ja-Mbu (south of Cameroon), Ki-Tam (north of Gabon), Bo-To (east of Costa Rica), Mo-Ke (central Vietnam), U-Lu (west of Malaysia), An-Gor (south of Cambodia) and many more settlements
@@ -132,63 +144,63 @@ Unixgrad (capital, Antarctica), Penguin Point (Antarctica), Ice Harbor (Antarcti
 
 ## New independent states
 
-- **Abkhazia** (independence from Georgia)
+- **Abkhazia** (independence from Georgia in 2008)
   - Domain: `.ab`
   - ISO: `AB`
   - Currency: Abkhazian apsar (APS)
   - Calling code: `+794 (XXX) XXX XX-XX`
   - Capital: Sukhum
 
-- **Ossetia** (independence from Georgia and Russia)
+- **Ossetia** (independence from Georgia and Russia in 2008)
   - Domain: `.os`
   - ISO: `OS`
   - Currency: Ossetian iron (IRO)
   - Calling code: `+795 (XXX) XXX XX-XX`
   - Capital: Tskhinval
 
-- **West Papua** (independence from Indonesia)
+- **West Papua** (independence from Indonesia in 2025)
   - Domain: `.wp`
   - ISO: `WP`
   - Currency: Papuan rupiah (WPR)
   - Calling code: `+690 (XXX) XXX XX-XX`
   - Capital: Jayapura
 
-- **Vavambik** (independence from Kenorlandia)
+- **Vavambik** (independence from Kenorlandia in 2025)
   - Domain: `.wv`
   - ISO: `WV`
-  - Currency: Vavam elleidge (WVJ)
+  - Currency: Vavam elleije (WVJ)
   - Calling code: `+721 (9XX) XXX XX-XX`
   - Capital: Vavamia
 
-- **Azawad** (independence from Mali)
+- **Azawad** (independence from Mali in 2026)
   - Domain: `.az`
   - ISO: `AZ`
   - Currency: Azawad franc (AZF)
   - Calling code: `+292 (XXX) XXX XX-XX`
   - Capital: Gao
 
-- **Zanzibar** (independence from Tanzania)
+- **Zanzibar** (independence from Tanzania in 2026)
   - Domain: `.zn`
   - ISO: `ZN`
   - Currency: Zanzibari shilling (ZAS)
   - Calling code: `+293 (XXX) XXX XX-XX`
   - Capital: Zanzibar City (Stone Town)
 
-- **Cabinda** (independence from Angola)
+- **Cabinda** (independence from Angola in 2026)
   - Domain: `.cb`
   - ISO: `CB`
   - Currency: Cabindan kwanza (KBD)
   - Calling code: `+295 (XXX) XXX XX-XX`
   - Capital: Cabinda
 
-- **Somaliland** (independence from Somalia)
+- **Somaliland** (independence from Somalia in 1992)
   - Domain: `.sl`
   - ISO: `SL`
   - Currency: Somaliland shilling (SLS)
   - Calling code: `+296 (XXX) XXX XX-XX`
   - Capital: Hargeisa
 
-- **Ambazonia** (independence from Cameroon)
+- **Ambazonia** (independence from Cameroon in 2026)
   - Domain: `.am`
   - ISO: `AM`
   - Currency: Ambazonian franc (AMF)
@@ -209,40 +221,47 @@ Unixgrad (capital, Antarctica), Penguin Point (Antarctica), Ice Harbor (Antarcti
   - Calling code: `+970 (XXX) XXX XX-XX`
   - Capital: Ramallah
 
-- **Kurdistan** (independence from Iraq, Syria, Turkey and Iran)
+- **Kurdistan** (independence from Iraq, Syria, Turkey and Iran in 2025)
   - Domain: `.ku`
   - ISO: `KU`
   - Currency: Kurdish dinar (KRD)
   - Calling code: `+991 (XXX) XXX XX-XX`
   - Capital: Erbil
 
-- **Rojava** (independence from Syria and Turkey)
+- **Rojava** (independence from Syria and Turkey in 2025)
   - Domain: `.rj`
   - ISO: `RJ`
   - Currency: Rojavan pound (ROJ)
   - Calling code: `+992 (XXX) XXX XX-XX`
   - Capital: El-Qamishli
 
-- **Druzia** (independence from Syria and Jordan)
+- **Druzia** (independence from Syria and Jordan in 2025)
   - Domain: `.dr`
   - ISO: `DR`
   - Currency: Druze pound (DRU)
   - Calling code: `+993 (XXX) XXX XX-XX`
   - Capital: Suwayda
 
-- **Balochistan** (independence from Iran and Pakistan)
+- **Balochistan** (independence from Iran and Pakistan in 2021)
   - Domain: `.bl`
   - ISO: `BL`
   - Currency: Balochistani rupee (BLR)
   - Calling code: `+994 (XXX) XXX XX-XX`
   - Capital: Quetta
   
-- **Catalonia** (independence from Spain)
+- **Catalonia** (independence from Spain in 2017)
   - Domain: `.ct`
   - ISO: `CT`
   - Currency: European euro (EUR)
   - Calling code: `+341 (XXX) XXX XX-XX`
   - Capital: Barcelona
+  
+- **Ahvaz** (independence from Spain in 2017)
+  - Domain: `.av`
+  - ISO: `AV`
+  - Currency: Azwazian dinar (AVD)
+  - Calling code: `+969 (XXX) XXX XX-XX`
+  - Capital: Al-Ahvaz
   
 ## Great Powers
 
@@ -316,8 +335,9 @@ A Kenorian independent media outlet that describes the news in detail.
 
 - **Ideology**: Fascism and socialism
 - **Official languages**: Zulu
+- **Religion**: Catholic Christianity
 - **Location**: the Caucasus
-- **Currency**: Vavam elleidge (WVJ)
+- **Currency**: Vavam elleije (WVJ)
 - **Calling code**: +721 (9XX) XXX XX-XX
 - **Mobile operators**: Wavai, Elazulum, Telfoarf
 - **ISO 3166-1**: `WV`
@@ -395,12 +415,13 @@ The rest are like Russia's:
 
 ## Areda
 
-**Aredan Republic** - the second Jewish country.
+**Aredian Republic** - the second Jewish country.
 
 - **Ideology**: Democracy and capitalism
-- **Official languages**: Aredan and Hebrew
+- **Official languages**: Aredian and Hebrew
+- **Religion**: Judaism
 - **Location**: the Caucasus
-- **Currency**: Aredan elleidge (ALJ)
+- **Currency**: Aredian elleije (ALJ)
 - **Country calling code**: +73 (ΧXX) XXX XX-XX
 - **Mobile operators**: MobIvrrit, Providit
 - **ISO**: `AA`
@@ -422,12 +443,12 @@ Anthem - "Тәафу аҟаз това"
 
 ### Parties of Areda
 
-- Hebrew-Abkhaz Party (HAP)
+- Hebrew-Abkhaz Party (HAP, current)
 - Party of the Arabs of the Areda Oblast (PAAO)
 - Democratic Party
-- Aredan Zionist Congress (ASK)
+- Aredian Zionist Congress (AZC)
 
-### Service phone numbers of the Aredan Republic
+### Service phone numbers of the Aredian Republic
 
 - **Emergency services**: +73 (100) 188 20-30 or 950
 - **Yurt City Hall**: +73 (111) 951 52-22
@@ -447,12 +468,15 @@ The rest are like Kenorlandia's:
 - Georgia
 - USA
 - UAE
+- Qatar
 - Rojava
 - Kurdistan
 - Israel
 - Palestine
 - Druzia
 - Balochistan
+- Kuwait
+- Ahvaz
 
 Website - `uoka.org`
 
@@ -484,7 +508,7 @@ Website - `doomjuice.wv`
 > All countries described here (except the GST, the UGST, the Combine and real countries) are located in the Caucasus/Transcaucasia.
 > Don't insert phone numbers where they aren't being talked about, or where the context isn't about that country.
 > County = County, it is a county of the LKR before the war.
-> Kenorlandia was in the USSR (1922-1991, as were Areda and Bobia), then was the SSPKR (Soviet Socialist People's Kenorian Republic, 1992-2001), the PTKC (Provisional Trucial Kenorian Counties, 2001), and the LKR (2001-2026).
+> Kenorlandia was part of the USSR (30 Dec 1922 – 16 Dec 1991, as were Areda, Vavambik and Bobia), then became the SSPKR (Soviet Socialist People's Kenorian Republic, 16 Dec 1991 – 1 May 2001), the PTKC (Provisional Trucial Kenorian Counties, 1–31 May 2001), and the LKR (31 May 2001–present).
 > In Kenorlandia they measure in the SIE system. A period is used as the decimal separator, and a comma for lists.
 > Kenorlandia has also been a member of NATO since 2004.
 > Vavambik appeared in the USSR after the migration of peoples from Africa.

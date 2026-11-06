@@ -22,6 +22,10 @@ The following objects were terraformed:
 
 All operations were carried out by the Combine
 
+## Humans
+
+There is a domain zone: `.man`; ISO: `MAN`; phone code +001
+
 ## Kolbasites
 
 ### Buildings
@@ -71,7 +75,7 @@ A station where electricity is extracted from magnets by spinning (rivers, labor
 ### UGST
 In some cities there are **sausage districts** — these are urban-type districts where kolbasites live, in small houses, but with restrictions: a fence, a checkpoint, autonomy like the UGST (Urban Great Sausage Tribes). The majority of sausages in the wild are in the GST (83%), the rest (17%) in the Arab districts. There are highways that lead to GST settlements/other UGSTs and often break off, replaced by roads or paths. There are ordinary not-wide roads in UGSTs. Kolbasites there use Arbsos.
 
-There is a domain zone: `.gst`; ISO: `gst`; phone code +018
+There is a domain zone: `.gst`; ISO: `GST`; phone code +018
 
 ### Transport
 - Cars — carts with a roof, four wheels, five seats, a hood and a trunk, resembling automobiles, powered by magnets, a pedal and a steering wheel
@@ -94,7 +98,7 @@ Jellies live in human cities and are civilians. They can also build their own ci
 
 ### Internet
 
-They have their own top-level domain: `.jel`; ISO: `jel`; as well as phone code +035
+They have their own top-level domain: `.jel`; ISO: `JEL`; as well as phone code +035
 
 The internet in jelly cities is of poor quality
 
@@ -110,7 +114,7 @@ Linuxoids live in human cities and are civilians.
 
 ### Internet
 
-They have their own top-level domain: `.tux`; ISO: `tux`; as well as phone code +099
+They have their own top-level domain: `.tux`; ISO: `TUX`; as well as phone code +099
 
 ## Monkekhi
 
@@ -120,7 +124,7 @@ Monkekhi live predominantly in tropical forests, building cities in the trees an
 
 ### Internet
 
-They have their own top-level domain: `.mok`; ISO: `mok`; as well as phone code +066. The quality of the internet in forest cities leaves much to be desired due to communication interruptions.
+They have their own top-level domain: `.mok`; ISO: `MOK`; as well as phone code +066. The quality of the internet in forest cities leaves much to be desired due to communication interruptions.
 
 ### Weapons
 
@@ -128,6 +132,9 @@ Monkekhi use primitive weapons: slings, bows and banana launchers, but also acti
 
 ## Aerou City
 A city in which the company aeroRoom operates, but it is under the sovereignty of the LKR; it is a suburban-type settlement. The architecture is usually futuristic, technological, minimalist, with a lean toward Frutiger Aero. In this city the streets are spacious and the water bodies are quite clean. But the problems of real life remain
+
+## The Town of Ravenholm
+Once a thriving settlement, this town is now inhabited by semi-sentient creatures. Following The Combine’s testing of a biological weapon on the outskirts of Ravenholm—carried out with the consent of the LKR something went horribly wrong, and the town was overrun by biotics. Only a third of the original population remains; another third was killed, and the final third managed to evacuate.
 
 ## Real companies
 Not excluded from the lore.
@@ -162,7 +169,7 @@ National company of Kenorlandia: `gitiyverse.kl` (blocked in Bobia). Founded in 
 - Browgess — a Gecko-based browser with built-in Tor (for `.onion`) and I2P (for `.i2p`), the regular internet without such networks. There is a version based on Chromium.
 - Gitiy Linux — a GNU/Linux distribution
 - GDE (Gitiy Desktop Environment), GWM (Gitiy Windows Manager), XDM (XMB Display Manager) — graphics software
-- Arbsos — neural-interface devices with LineageOS and a camera for kolbasites
+- Arbsos — neural-interface devices with LineageOS and a camera for kolbasites. It emulates the visual cortex, sends the image from the camera to the brain, and provides a firmware overlay upon request.
 
 > Both GDE and XDM resemble GNOME + XMB.
 
@@ -279,16 +286,66 @@ A riotous MMORPG based on politics. Looks like a typical MMORPG, there are:
 
 Website — `lemodernmmo.kl`
 
-## The 2001 Incident (not to be confused with 9/11)
+## The Most Unfortunate Year on Earth (2001)
 
-Accident at Black Mesa (USA):
-- Arrived on Earth: jellies, kolbasites, antlions, vortigaunts, Durachochki, the Combine (appeared in lunar orbit a month later)
+### Black Mesa Accident (USA)
+
+- Jellies, kolbasites, antlions, vortigaunts, Durachochki and the Combine arrived on Earth (the Combine appeared in lunar orbit a month later)
 - The Combine colonized the Solar System and the wastelands on Earth
 - After the Combine's experiments in Antarctica, linuxoids mutated from penguins
 - The Combine's experiments in the Congo region led to the creation of the Monkekhi
-- Black Mesa is in decline, but it works
-- East Black Mesa (Kenorlandia) and Belaya Roshcha (Russia) bought up parts
-- Aperture Science (USA) studies portals, AI, spacetime warping
+- Black Mesa is in decline, but still operational
+- East Black Mesa (Kenorlandia) and Belaya Roshcha (Russia) bought parts of it
+- Aperture Science (USA) studies portals, AI and spacetime warping
+- GLaDOS is listed as an “experimental prototype” and was first activated as part of “Bring Your Daughter to Work Day”
+- Small vortigaunt communities have been spotted near former Black Mesa zones; their motives are unknown
+
+### Terrorist attack in New York City, USA, linked to al-Qaeda and the Taliban regime
+
+- The Taliban provided al-Qaeda with safe haven and infrastructure; al-Qaeda paid the Taliban for protection
+- On September 11, planes hijacked by 19 terrorists struck the Twin Towers and the Pentagon
+- About 2,977 people were killed, including first responders
+- Combined economic losses for New York City were about $83 billion
+
+### Natural disasters
+
+- January 26 — Gujarat earthquake, India (M 7.7–7.9): 14,000–20,000 deaths
+- January–February — two earthquakes in El Salvador (M 7.6 and 6.6): 850–1,200 deaths; about one million people left homeless
+- February 28 — Nisqually earthquake, USA (M 6.8): 1 death; $2–4 billion in damage
+- June — Tropical Storm Allison in Houston, USA: 25 deaths; $6 billion in damage
+- June 23 — earthquake in southern Peru (M 8.4): 75 deaths, more than 2,600 injured
+- September — Typhoon Nari in Taiwan: 93 deaths; $800 million in damage
+- November — Typhoon Lingling in the Philippines: 61+ deaths, 110 people missing
+- November 9–10 — floods in Algeria: more than 700 deaths
+- December — drought in Central America: famine and crop losses in Guatemala, Honduras, Nicaragua and El Salvador
+
+### Industrial disasters and accidents
+
+- February 10 — the submarine USS Greeneville struck the Japanese fishing vessel Ehime Maru: 9 deaths
+- March 20 — the Petrobras P-36 oil platform sank in Brazil: 10 deaths
+- March 23 — the Mir space station was deorbited, ending a 15-year orbital program
+- April 1 — an EP-3 and a J-8 collided over Hainan Island: 1 death and a diplomatic crisis
+- July 3–4 — Tu-154 crash near Irkutsk: 145 deaths
+- October 4 — a Tu-154 was shot down over the Black Sea: 78 deaths
+- October 8 — MD-80 crash in Milan: 114 deaths
+- November 12 — American Airlines Flight 587 in New York: 260 deaths on board and 5 on the ground
+- November 24 — CRJ-100 crash in Zurich: 24 deaths
+- October–November — anthrax letters were mailed across the USA: 4 deaths, 17 infections
+
+### Economy, politics and society
+
+- February — foot-and-mouth disease outbreak in the United Kingdom: mass culling of livestock
+- March — the Taliban destroyed the Bamiyan Buddhas, which had stood for 1,500 years
+- April 1 — the Netherlands became the first country in the world to legalize same-sex marriage
+- July — emerging-market crisis: Argentina neared default on $128 billion of debt; Argentine stocks fell 12%, Turkish stocks 21%
+- July — Slobodan Milošević was arrested and extradited to the Hague Tribunal
+- June 1 — Nepal's royal family was killed by Crown Prince Dipendra
+- July 20 — G8 protests in Genoa: 1 death and widespread rioting
+- October — the war in Afghanistan began: the USA and its allies fought the Taliban and al-Qaeda
+- November 13 — Kabul fell; the Taliban lost control of the capital
+- December 2 — Enron filed for bankruptcy, the largest such failure in US history at the time
+- December — mass riots and looting in Argentina; the president resigned and the country defaulted
+- December — Ebola outbreak in Gulu, Uganda: hundreds infected, with a high fatality rate
 
 ## Technologies
 
@@ -352,5 +409,7 @@ Kenorlandia, Fatah and Israel signed a treaty on an operation in Gaza for 250 bi
 > "In Switzerland it's boring — always peaceful and rich; in Bobia it's boring — always war and poverty; in Kenorlandia it's fun — both peace and war, both wealth and poverty."
 > "Kenorlandia is Russian culture, American economy, Arab strength and Chinese efficiency, in one state."
 > "The Combine is the very definition of authoritarianism and greatness.*
+
+> ⚠️ Warning! Many materials here may seem shocking or emotionally distressing, as they contain mentions of terrorists and related events. They are provided for entertainment purposes.
 
 *File author: Kurlyka*

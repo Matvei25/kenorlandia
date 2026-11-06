@@ -19,11 +19,18 @@ Anthem — "Our Overwatch expanse"
 - **The Citadel** — the main base (about 5 km tall)
 - **"Nova-Prospekt" Prison** — a place where people are processed
 - **Industry** — handles the creation of technology, the creation of implants for synths and the extraction of various materials (water, oil, resin, plant seeds, acids, alkalis, gases, rock and ore)
-- **Parties**: The Combine Empire, The Combine Overwatch, The Combine Diplomacy
 - **Currency**: Credits (CMBCRD) or points (CMBPNT)
 - **Language:** English and Lojban
 
-## Combine service phone numbers
+## Parties
+
+- The Combine Empire (current)
+- The Combine Civilians
+- The Combine Overwatch
+- The Combine Diplomacy
+- The Combine Industry
+
+## Service phone numbers
 
 - **Emergency services**: +0 (077) 210 16-25 or just 200
 - **The Citadel**: +0 (000) 000 00-00 or just 100
