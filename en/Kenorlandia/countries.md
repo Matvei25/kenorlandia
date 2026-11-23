@@ -19,7 +19,7 @@
 
 Flag:
 - Blue-white-green stripes
-- 6 black stars in a row in the middle, symbolizing the counties
+- 8 black stars in a row in the middle, symbolizing the counties
 
 Coat of arms: 
 - A radio tower
@@ -99,11 +99,13 @@ A mix of Russian, English and Arabic, written in Latin script, very simple. Bann
 ## Cities and small settlements
 
 ### Kenorlandia
-- Kenorlig-City County: Kenorlig (capital)
-- Ubreg County: Sochi, Adler, Tuapse, Dzhubga, Ravenholm
-- Esto County: Esto-Sadok, Bluo Stimovy, Aerou
-- Danyo County: Danel, Ukratos, New Shepsi, Al-Libralia
-- Yott County and Yeshubin-City (currently not under LKR control)
+- Kenorlig-City County: Kenorlig (state's capital)
+- Ubreg County: Sochi (county's capital), Adler, Tuapse, Dzhubga, Ravenholm
+- Esto County: Esto-Sadok (county's capital), Bluo Stimovy, Aerou, Psebay
+- Danyo County: Danel (county's capital), Ukratos, New Shepsi, Al-Libralia
+- Autonomous Republic of Adygea: Maykop (capital of the autonomous region), Adygeysk, Yablonovsky
+- County Yovukh-City, Yott and Yeshubin-City (not under the control of LKR)
+- Mozavava County (eliminated in 2025 after Vavambik's independence)
 
 ### Areda
 - Yurt-Akalak Oblast: Yurt (capital)
@@ -112,7 +114,8 @@ A mix of Russian, English and Arabic, written in Latin script, very simple. Bann
 - Autonomous Arab Oblast: Al-Mahad
 
 ### CKR
-Yott County: Yovukh (capital), Redo Kiy
+- Yovukh-City Country: Yovukh (county and movement capital)
+- Yott County: Matri (county's capita), Redo Kiy
 
 ### Bobia
 - Breya Oblast: Bremsk (capital), Kurt
@@ -274,6 +277,7 @@ Unixgrad (capital, Antarctica), Penguin Point (Antarctica), Ice Harbor (Antarcti
 - China
 - Kenorlandia
 - Bobia
+- Serbia
 - Iran
 - Turkey
 - Kurdistan
@@ -282,6 +286,7 @@ Unixgrad (capital, Antarctica), Penguin Point (Antarctica), Ice Harbor (Antarcti
 - Qatar
 - Israel
 - Morocco
+- Egypt
 - Nigeria
 - Ethiopia
 - Gabon
@@ -469,6 +474,7 @@ The rest are like Kenorlandia's:
 - USA
 - UAE
 - Qatar
+- Bahrain
 - Rojava
 - Kurdistan
 - Israel
@@ -477,6 +483,9 @@ The rest are like Kenorlandia's:
 - Balochistan
 - Kuwait
 - Ahvaz
+- Azerbaijan
+- Yemen
+- Free Afghanistan (unofficial)
 
 Website - `uoka.org`
 
@@ -492,6 +501,7 @@ Website - `uoka.org`
 - HAMAS
 - Hezbollah
 - Ansar Allah
+- Taliban (Afghanistan)
 
 Website - `uobc.bk`
 

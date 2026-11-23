@@ -192,7 +192,7 @@ Website — `crm.aa`
 
 ## Iosoda Company
 
-A company busy creating flavored carbonated soft drinks, with strange names, usually named after open-source software, founded in France. For example:
+A company busy creating flavored carbonated soft drinks. There are standard flavors like "Cola", "Caramel", "Vanilla", "Cherry", and "Lemon". But there are also holiday specials named after OSS, for example:
 - Tar — brown, with the taste of chewing gum and pomegranate
 - Tar.XZ — dark blue, with the taste of pomegranate and baking soda
 - Vim — green, with the taste of apple and green grapes

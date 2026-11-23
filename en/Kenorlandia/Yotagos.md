@@ -69,7 +69,7 @@ The anthem is absent.
 
 - Technocratic Yotian Party (TYP, Yotaism)
 - Party of Brotherly Communism (PBC, Tetaism)
-- Committee of City Defense (CCD, Cartman)
+- Citizen's Defense Committee (CDC, Eric Cartman)
 
 ## Armament of the Yotaforces
 

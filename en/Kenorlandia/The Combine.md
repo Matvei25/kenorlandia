@@ -29,6 +29,7 @@ Anthem — "Our Overwatch expanse"
 - The Combine Overwatch
 - The Combine Diplomacy
 - The Combine Industry
+- The Combine Sync (A-Sync)
 
 ## Service phone numbers
 
@@ -158,11 +159,33 @@ A panel with a button, a bar and an emitter for dispensing healing material; the
 
 **The Lambda Resistance** — strong opponents, ordinary people, they steal weapons and uniforms from the Combine, they study science and technology.
 
+## A-Sync
+
+A Combine department dedicated to searching for worlds, universes, civilizations, and planetary systems. The party successfully discovered over 80 systems, including:
+- The Combine Homeworld (exception)
+- The Solar System
+- The Sirius System
+- The TRAPPIST-1 System
+- The Rigil Kentaurus - Toliman System
+- The Fomalhaut System
+- The Kepler-452 System
+- The Backrooms Complex Universe
+- The Xen Universe (the world of beings that entered Earth as a result of 2001)
+- The Triurtec Universe
+
+### Backrooms
+
+A universe in which countless random rooms, entities, systems, and spaces are generated. Not only unknown objects but also familiar everyday objects can be found there. The Сomplex can generate entire cities, planetary systems, indescribable natural phenomena, and even so-called still lifes. A still life is a living object created by the Complex, which, by definition, must closely resemble a creature or food item from any other universe. This dimension can be accessed like all others – through wormholes, not through noclip as the stories say.
+
+### Triurtec
+
+A high-tech and unlimited universe, completely occupied by the Combine.
+
 ## Features
 
 - The Combine has studied wormholes
 - Phone numbers start with +0 (XXX) XXX XX-XX
-- Phone numbers of the Combine's occupation of Antarctica start with +672 (XXX) XXX XX-XX
+- Phone numbers of the Combine's occupation of Antarctica start with +0 (672) XXX XX-XX
 - Top-level domain: `.cmb`
 - They use terminology, codes and abbreviations for tactics
 

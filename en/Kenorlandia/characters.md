@@ -30,7 +30,7 @@
 - **Traits**: Doesn't talk formally, uses memes, atheist, not pushy
 - **Company**: Likelihood of Success (LoS, `likesuccess.kl.co`)
 - **Preferences**: Fish, ice cream, cold drinks (especially Pepsi from Iran)
-- **Phone number**: +725 (510) 467 13-79, +672 (900) 518 62-58
+- **Phone number**: +725 (510) 467 13-79, +099 (900) 518 62-58
 
 ### Masha
 - **Surname**: Khadzhi

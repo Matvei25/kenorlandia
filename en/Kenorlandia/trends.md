@@ -43,6 +43,13 @@ Memes current in the universe as of 2026.
 - "yumashadke!!ğğğ"
 - - ğ (Turkish soft g, yumuşak ge)
 - "EW show me"
+- "Jadu na skuterku skir skir skir"
+- When you encounter a still-life version of yourself
+- A snake eating itself
+- A box on fire
+- When you fart in church
+- A neural-network-generated character speaking into a microphone
+- Those who respect the little bees
 
 ## Notable figures
 
@@ -71,3 +78,6 @@ Memes current in the universe as of 2026.
 - Vegan Teacher — a Canadian animal rights activist, former educator. Known for aggressive vegan propaganda on TikTok and YouTube.
 - Vegan Booty — an Australian vegan activist, became famous for shocking animal rights stunts.
 - Hamzah Saadah — a Palestinian-American content maker, gained fame through gaming content on YouTube and TikTok. Became known for exposing Israeli soldiers online.
+
+---
+*Author of the files: Kurlyka*

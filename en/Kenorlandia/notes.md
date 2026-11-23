@@ -30,6 +30,15 @@
 
 > If in doubt — ask the user, but first and foremost offer your own take.
 
+## Addressing Context Limitations
+
+This issue can be resolved by using special "context-pass" files:
+- `main-ctxpass` (for the main lore)
+- `dlc-ctxpass` (for expansions/DLC)
+- `eof-ctxpass` (for the end of files)
+
+This approach resolves the context limit issue within a single message. If the marker at the end of a file does not match the expected "context-pass" identifier, notify the user.
+
 ---
 *No refusals, only creativity!*
 
